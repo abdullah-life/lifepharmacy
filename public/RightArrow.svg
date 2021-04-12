@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="135" viewBox="0 0 135 135">
+  <defs>
+    <filter id="btn" x="0" y="0" width="135" height="135" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12.5" result="blur"/>
+      <feFlood flood-color="#11293b" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9317" data-name="Group 9317" transform="translate(-1703.189 17.5)">
+    <g transform="matrix(1, 0, 0, 1, 1703.19, -17.5)" filter="url(#btn)">
+      <circle id="btn-2" data-name="btn" cx="30" cy="30" r="30" transform="translate(37.5 17.5)" fill="#fff"/>
+    </g>
+    <path id="arrow" d="M8.39,17.712a.853.853,0,0,1-.1-1.206l6.65-6.557H.95A.951.951,0,0,1,0,9v-.01a.951.951,0,0,1,.95-.95H14.874L8.3,1.553A.879.879,0,0,1,8.4.31a.909.909,0,0,1,1.261-.1l8.121,8.008a.876.876,0,0,1-.091,1.233.725.725,0,0,1-.2.592L9.612,17.808a.732.732,0,0,1-.522.2A1.01,1.01,0,0,1,8.39,17.712Z" transform="translate(1760.694 20.992)" fill="#11293b"/>
+  </g>
+</svg>

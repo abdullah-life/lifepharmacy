@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="389" height="215" viewBox="0 0 389 215">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#36a9e1"/>
+      <stop offset="1" stop-color="#1d71b8"/>
+    </linearGradient>
+    <filter id="Path_7809" x="0" y="0" width="389" height="215" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7e7b7b"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9295" data-name="Group 9295" transform="translate(-576.832 -839)">
+    <g transform="matrix(1, 0, 0, 1, 576.83, 839)" filter="url(#Path_7809)">
+      <g id="Path_7809-2" data-name="Path 7809" transform="translate(3 2)" fill="url(#linear-gradient)">
+        <path d="M 373 208.5 L 10 208.5 C 4.76170015335083 208.5 0.5 204.2382965087891 0.5 199 L 0.5 10 C 0.5 4.76170015335083 4.76170015335083 0.5 10 0.5 L 373 0.5 C 378.2383117675781 0.5 382.5 4.76170015335083 382.5 10 L 382.5 199 C 382.5 204.2382965087891 378.2383117675781 208.5 373 208.5 Z" stroke="none"/>
+        <path d="M 10 1 C 5.03741455078125 1 1 5.037399291992188 1 10 L 1 199 C 1 203.9626007080078 5.03741455078125 208 10 208 L 373 208 C 377.9625854492188 208 382 203.9626007080078 382 199 L 382 10 C 382 5.037399291992188 377.9625854492188 1 373 1 L 10 1 M 10 0 L 373 0 C 378.5228576660156 0 383 4.477157592773438 383 10 L 383 199 C 383 204.5228576660156 378.5228576660156 209 373 209 L 10 209 C 4.477142333984375 209 0 204.5228576660156 0 199 L 0 10 C 0 4.477157592773438 4.477142333984375 0 10 0 Z" stroke="none" fill="#ededed"/>
+      </g>
+    </g>
+    <path id="Path_6780" data-name="Path 6780" d="M4059.693,25.172H4043.2c.041,20.24-4.237,45.717-21.835,65.572-34.585,39.018-82.471,43.9-120.6,76.706-29.489,25.374-36.7,54.72-38.456,66.722h197.385a10,10,0,0,0,10-10v-189A10,10,0,0,0,4059.693,25.172Z" transform="translate(-3106.475 815.828)" opacity="0.155" fill="url(#linear-gradient-2)" style="mix-blend-mode: overlay;isolation: isolate"/>
+  </g>
+</svg>
